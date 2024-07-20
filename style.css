@@ -1,0 +1,37 @@
+.kevo{
+    background-color: blueviolet;
+    padding: 20px 30px;
+    text-align: center;
+    width: 50%;
+    margin-bottom: 10px;
+    margin-left: 20px;
+    font-size: 30px;
+    border-radius: 10px;
+    
+}
+.trial{
+    background-color: blueviolet;
+    padding: 20px 30px;
+    text-align: center;
+    width: 50%;
+    margin-left: 20px;
+    font-size: 30px;
+    border-radius: 10px;
+}
+trial.km{
+    border-radius: 10px;
+}
+
+.input{
+  width: 25%;
+  height: 40px;
+  padding: 1px 10px;
+}
+.bt
+{
+ 
+    border-radius: 5px;
+    width: 15%;
+     height: 28px;
+
+}
